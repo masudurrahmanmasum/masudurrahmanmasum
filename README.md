@@ -1,6 +1,6 @@
-![Professional Full Stack Web Developer]([https://pbs.twimg.com/media/F1dwWkpaUAAFxWW?format=jpg&name=large](https://pbs.twimg.com/media/F1d8H4laUAI06V2?format=jpg&name=large))
 ### Hi there 👋, Masudur Rahman Masum
 #### Professional Full Stack Web Developer
+![Professional Full Stack Web Developer](https://pbs.twimg.com/media/F1d8H4laUAI06V2?format=jpg&name=large)
 
 Hello there,
 This is me Masudur Rahman, a professional Web Developer with more than 3 years of experience. Welcome to you in my GitHub profile.  
@@ -8,7 +8,7 @@ This is me Masudur Rahman, a professional Web Developer with more than 3 years o
 Skills:  HTML / CSS / JS / REACT / MongoDB / Express Js / Node Js  
 
 - 🔭 I’m currently working on Fiverr and Upwork.  
-- 🌱 I’m currently learning React, Node Js, and Express Js. 
+- 🌱 I’m currently learning React, Node Js, Express Js. 
 - 💬 Ask me about MERN Stack Web Development 
 - 📫 How to reach me: masudurrahmanmasum251@gmail.com 
 - ⚡ Fun fact: I think I am a funny person.😜 
